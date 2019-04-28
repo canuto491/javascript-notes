@@ -1,0 +1,19 @@
+{
+  "name": "javascript-notes",
+  "version": "1.0.0",
+  "description": "notes about javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canuto491/javascript-notes.git"
+  },
+  "author": "Luis Sousa <canuto491@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canuto491/javascript-notes/issues"
+  },
+  "homepage": "https://github.com/canuto491/javascript-notes#readme"
+}
